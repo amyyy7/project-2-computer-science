@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<body>
+<link rel='stylesheet' type='text/css' href='style.css'>
+<h1>
+<center>Teen Pregnancy</center>
+</h1>
+
+<h2>
+<center>
+
+<body>
+<div class="grid">
+  <div class="item1"><a href="historical facts.html"><center>Historical facts</center></a></div>
+  <div class="item2"><a href="scientific data.html"><center>Scientific data</center></a></div>
+  <div class="item3"><center><a href="campaign html"><center>Campaign</center></a></div>
+  <div class="item4"><img src="https://mediad.publicbroadcasting.net/p/michigan/files/styles/x_large/public/201506/Pregnant-PhotobyCharlieDavidson.jpg"></div>
+  <div class="item5"><img src="https://d3ewd3ysu1dfsj.cloudfront.net/images/stories/large/36439.jpg?1491921207"></div>
+  <div class="item6"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMUgDHNUSCRiWtKbMZP56S8rJS1jOnzrQTRuiG-gqcFohscav&s"></div>
+  </div>
+</body>
